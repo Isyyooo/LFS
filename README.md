@@ -4,3 +4,4 @@ time:
   | package name | real time | user time | sys time |
   | --- | --- | --- | --- |
   |Binutils-2.40 - 第一遍 |  3m46160s | 3m15.858s | 0m32.221s |
+  |GCC-12.2.0 - 第一遍 | 39m27.693s | 36m22.346s | 2m47.252s |
